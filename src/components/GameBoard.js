@@ -22,7 +22,6 @@ export default function GameBoard({ onSelectSquare, turns }) {
     //     updatedBoard[rowIndex][colIndex] = activePlayerSymbol;
     //     return updatedBoard;
     //   });
-
     //   onSelectSquare();
     // }
 
