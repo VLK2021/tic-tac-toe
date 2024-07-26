@@ -259,6 +259,12 @@ ol {
     color: white;
 }
 
+#log span {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #23221f;
+}
+
 #game-hints {
     text-align: center;
     color: #46432f;
@@ -284,6 +290,7 @@ ol {
     font: inherit;
     margin-top: 1.5rem;
 }
+
 
 @keyframes slide-in-from-left {
     0% {
